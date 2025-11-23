@@ -1,0 +1,5 @@
+{
+  "name": "Robo AI - Video Editor",
+  "description": "A powerful web-based video editor inspired by CapCut, featuring a multi-track timeline, real-time preview, and AI-powered editing tools.",
+  "requestFramePermissions": []
+}
